@@ -6,13 +6,16 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting
