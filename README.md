@@ -11,12 +11,14 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting
