@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
