@@ -50,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Trie
 |  |
 | ------- |
