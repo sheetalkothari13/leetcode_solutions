@@ -28,6 +28,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Counting
 |  |
 | ------- |
