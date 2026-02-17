@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0001-two-sum](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Trie
