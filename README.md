@@ -62,6 +62,7 @@
 | [0027-remove-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Trie
