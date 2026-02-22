@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -34,6 +35,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -52,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -61,6 +64,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -78,4 +82,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
