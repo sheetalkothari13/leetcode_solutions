@@ -43,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Array
@@ -67,6 +69,7 @@
 | [0027-remove-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
