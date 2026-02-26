@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -61,6 +63,7 @@
 | [0018-4sum](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -77,6 +80,7 @@
 | [0136-single-number](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
