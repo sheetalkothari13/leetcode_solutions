@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0707-design-linked-list) |
@@ -134,5 +136,10 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0707-design-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
