@@ -20,6 +20,7 @@
 | [0205-isomorphic-strings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -88,6 +90,7 @@
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
