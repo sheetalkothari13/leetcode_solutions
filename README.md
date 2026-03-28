@@ -62,6 +62,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -91,6 +92,7 @@
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -149,4 +151,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
