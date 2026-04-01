@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
