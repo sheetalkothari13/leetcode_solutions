@@ -20,6 +20,7 @@
 | [0205-isomorphic-strings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
@@ -41,6 +42,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -75,6 +77,7 @@
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
@@ -115,6 +119,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,4 +166,16 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0901-online-stock-span) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
