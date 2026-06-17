@@ -23,6 +23,7 @@
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -107,6 +108,7 @@
 | [0485-max-consecutive-ones](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
