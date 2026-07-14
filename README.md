@@ -99,6 +99,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -203,4 +204,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
