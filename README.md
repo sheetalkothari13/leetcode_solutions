@@ -112,6 +112,7 @@
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@
 | [0053-maximum-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -213,9 +215,11 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -225,4 +229,16 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
