@@ -61,6 +61,7 @@
 | [0031-next-permutation](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
@@ -86,6 +87,7 @@
 | [0018-4sum](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
@@ -157,6 +160,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -222,6 +226,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
