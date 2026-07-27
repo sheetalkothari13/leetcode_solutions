@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
+| [1922-count-good-numbers](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -176,6 +177,7 @@
 | [0050-powx-n](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1922-count-good-numbers) |
 ## Design
 |  |
 | ------- |
