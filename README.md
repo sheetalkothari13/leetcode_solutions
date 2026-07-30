@@ -37,6 +37,7 @@
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -150,6 +151,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
