@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 ## Simulation
@@ -272,4 +274,8 @@
 | [0078-subsets](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
