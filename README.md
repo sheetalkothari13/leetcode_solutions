@@ -284,4 +284,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
