@@ -76,6 +76,7 @@
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -102,6 +103,7 @@
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Array
@@ -203,6 +205,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0707-design-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
@@ -218,10 +221,12 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
