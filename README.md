@@ -135,6 +135,7 @@
 | [0229-majority-element-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0485-max-consecutive-ones](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -236,6 +237,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
