@@ -131,6 +131,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0216-combination-sum-iii) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
