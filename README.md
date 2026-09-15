@@ -130,6 +130,7 @@
 | [0040-combination-sum-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0090-subsets-ii) |
@@ -195,6 +196,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -329,4 +331,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
