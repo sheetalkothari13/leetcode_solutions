@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -356,4 +357,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
