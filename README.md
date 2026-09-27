@@ -33,6 +33,7 @@
 | [0496-next-greater-element-i](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0621-task-scheduler) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -120,6 +121,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -374,6 +376,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -386,6 +389,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,6 +404,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -408,6 +413,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sheetalkothari13/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
